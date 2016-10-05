@@ -5,7 +5,7 @@ double poundOverEuroRatio = Double.parseDouble(System.console().readLine());
 println "OK, now I know enough.";
 boolean finished = false;
 while (!finished) {
-    println "";
+    println "TEST";
     println "What would you like to do?";
     println "   1 - Exchange pounds into euro";
     println "   2 - Exchange euro into pounds";
